@@ -1,7 +1,5 @@
 ### Hi there 👋
 ### IAMKENPHAM
-<!--
-**kenpham4real/kenpham4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on React
@@ -12,4 +10,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/kenpham4real)
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: I'm not fun
--->
+
