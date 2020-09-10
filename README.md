@@ -9,5 +9,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/kenpham4real) | [Linkedin](https://www.linkedin.com/in/kenpham4real/)
 - 😄 Pronouns: He/ him
-- ⚡ Fun fact: I'm not fun
+- ⚡ Fun fact: I'm not funny
 
