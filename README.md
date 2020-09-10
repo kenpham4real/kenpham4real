@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on React, React Native projects
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Twitter](https://twitter.com/kenpham4real)
+- 📫 How to reach me: [Twitter](https://twitter.com/kenpham4real) | [Linkedin](https://www.linkedin.com/in/kenpham4real/)
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: I'm not fun
 
