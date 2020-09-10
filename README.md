@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning React, Scrumban Framework, UI/UX design, Data Science
+- 🌱 I’m currently learning React, Scrumban Framework, UI/UX design, Data Science and Product Management
 - 👯 I’m looking to collaborate on React, React Native projects
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Anything
