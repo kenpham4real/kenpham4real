@@ -2,9 +2,9 @@
 ### IAMKENPHAM
 
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning React, Scrumban Framework, UI/UX design, Data Science and Product Management
-- 👯 I’m looking to collaborate on React, React Native projects
+- 🔭 I’m currently working on Product Management
+- 🌱 I’m currently learning Scrumban Framework, UI/UX design and Product Management
+- 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with Product Management
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/kenpham4real) | [Linkedin](https://www.linkedin.com/in/kenpham4real/)
