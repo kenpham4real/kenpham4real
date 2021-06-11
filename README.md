@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Product Management
-- 🌱 I’m currently learning Scrumban Framework, UI/UX design and Product Management
+- 🌱 I’m currently learning Agile, Scrum Framework, Product Owner, and Product Management
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with Product Management
 - 💬 Ask me about Anything
